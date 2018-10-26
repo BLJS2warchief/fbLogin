@@ -1,7 +1,7 @@
 body {
     margin: 0;
     height: 100%;
-    background-image: linear-gradient(to bottom,whitesmoke,white,rgb(221, 231, 241),rgb(221, 231, 241), rgb(184, 195, 207));
+    background-image: linear-gradient(to bottom,whitesmoke,white,rgb(219, 231, 241),rgb(221, 231, 241), rgb(184, 195, 207));
     background-size: cover;
 
 }
